@@ -27,12 +27,10 @@ def VC( VERTEX_LIST, n):
 def calculate(graphName):
     G = loadGraph("graph/" + graphName)
     VERTEX_LIST = edgeList(G)
-    n = len(G)
-
 
     print("Start", graphName, "Graph len: ", len(G))
 
-    result = VC(VERTEX_LIST, n)
+    result = VC(VERTEX_LIST, len(G))
 
     if isVC( VERTEX_LIST, result):
         print("Result len: ", len(result))

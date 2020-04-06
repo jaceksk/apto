@@ -31,7 +31,7 @@ def calculate(graphName):
     VERTEX_LIST = edgeList( G )
 
     print("Start", graphName, "Graph len: ", len(G))
-    i=1
+    i = 1
     result = None
     while result is None:
         result = VC(VERTEX_LIST, i, [])

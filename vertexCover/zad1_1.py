@@ -16,9 +16,6 @@ def calculate(graphName):
     VERTEX_LIST = edgeList( G )
 
     print("Start", graphName, "Graph len: ", len(G))
-    print("Graf", G)
-    print(VERTEX_LIST)
-    print()
 
     class Found(Exception): pass
     try:

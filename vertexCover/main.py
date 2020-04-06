@@ -4,10 +4,10 @@ import os
 # from zad2 import calculate
 # from zad1_3 import calculate
 # from 1_zad4 import calculate
-from zad2_1 import calculate
+# from zad2_1 import calculate
 from zad2_2 import calculate
 
-calculateList = ['b100']
+calculateList = []
 
 def runFromLs():
     with os.popen('ls graph/') as pipe:

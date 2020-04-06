@@ -13,11 +13,9 @@ def loadSolution( name ):
   C = [int(c) for c in C]
   return C
 
-
-
 if( len(argv) < 3 ):
   print("Invocation:")
-  print("  python verify.py graph-file solution-file")
+  print("python verify.py graph-file solution-file")
   exit()
 
 try:
