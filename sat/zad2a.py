@@ -1,10 +1,5 @@
 import pycosat
-import random         
-import PyGnuplot as g
 from dimacs import *
-from numpy import arange
-from itertools import *
-from sys import *
 import os
 
 # Oznaczenie zmiennych w README

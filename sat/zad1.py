@@ -20,11 +20,6 @@ def generateFormula(k, n, a):
     return cnf
     
 
-# k - liczba lieralow na klauzule
-# n - liczba zmiennych
-# T - liczbę powtórzeń 
-# dx - krok a 
-# a - przedzial do długości klauzul
 def generate(k, n, T, a_start, a_end, dx):
     iter = arange (a_start, a_end + dx, dx)
     dane = open('dane', 'w') 
