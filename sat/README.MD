@@ -1,4 +1,4 @@
-#Dane z wykresu
+# Dane z wykresu
 1. k - liczba lieralow na klauzule - 3
 2. n - liczba zmiennych - 10
 3. T - liczbę powtórzeń - 100
