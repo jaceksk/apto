@@ -27,5 +27,3 @@ def calculate(graphName):
         if isVC( VERTEX_LIST, C ):
             print("Result: ", C)
             saveSolution( "graph/" + graphName + ".sol", C )
-
-calculate("e5")
