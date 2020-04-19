@@ -65,9 +65,9 @@ def calculate(graphName):
     result = []
 
 
-    print("Start calculte for color number:", end='')
+    print("Start calculte for color number:")
     while c and n != len(result):
-        print(" %d," % k, end='')
+        print("k = %d," % k)
         k+=1
         cnf = calculateForK(VERTEX_LIST, k, n)
         result = pycosat.solve(cnf)
