@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jacek/studia/semestr_6/apto/project/crystal/Logger.h
+string
+-
+
+/home/jacek/studia/semestr_6/apto/project/crystal/Map.cpp
+Map.h
+/home/jacek/studia/semestr_6/apto/project/crystal/Map.h
+string
+-
+stdio.h
+-
+iomanip
+-
+iostream
+-
+boost/format.hpp
+-
+sstream
+-
+
+/home/jacek/studia/semestr_6/apto/project/crystal/Map.h
+iostream
+-
+fstream
+-
+string
+-
+Logger.h
+/home/jacek/studia/semestr_6/apto/project/crystal/Logger.h
+Map.h
+/home/jacek/studia/semestr_6/apto/project/crystal/Map.h
+

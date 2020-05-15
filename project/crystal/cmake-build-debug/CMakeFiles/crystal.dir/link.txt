@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/crystal.dir/main.cpp.o CMakeFiles/crystal.dir/Logger.cpp.o CMakeFiles/crystal.dir/Map.cpp.o  -o crystal 

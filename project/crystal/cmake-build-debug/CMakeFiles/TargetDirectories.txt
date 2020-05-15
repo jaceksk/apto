@@ -1,0 +1,3 @@
+/home/jacek/studia/semestr_6/apto/project/crystal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jacek/studia/semestr_6/apto/project/crystal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jacek/studia/semestr_6/apto/project/crystal/cmake-build-debug/CMakeFiles/crystal.dir

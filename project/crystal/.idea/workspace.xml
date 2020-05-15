@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="crystal" targetName="crystal" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d6fd386-05b6-4b43-9f58-9f7cc70d4284" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/apto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ILP/1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/crystal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logger.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Map.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Map.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps/trivial.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../izolacja/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../izolacja/.idea/izolacja.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../izolacja/Logger.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../izolacja/Logger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../izolacja/Map.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../izolacja/Map.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../izolacja/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vertexCover/zad4_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sat/dane" beforeDir="false" afterPath="$PROJECT_DIR$/../../sat/dane" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vertexCover/graph/e5.sol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vertexCover/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../vertexCover/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vertexCover/zad2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../vertexCover/zad2_1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1bopvyDpzSWz5J1bNe4Kdh80umb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/maps" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="crystal" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="crystal" TARGET_NAME="crystal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="crystal" RUN_TARGET_NAME="crystal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d6fd386-05b6-4b43-9f58-9f7cc70d4284" name="Default Changelist" comment="" />
+      <created>1588862222201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588862222201</updated>
+      <workItem from="1588862227122" duration="15071000" />
+      <workItem from="1589308541901" duration="10263000" />
+      <workItem from="1589445639041" duration="1509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="402" key="GridCell.Tab.0.bottom" timestamp="1589321308035">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="402" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1589321308035" />
+    <state width="1874" height="402" key="GridCell.Tab.0.center" timestamp="1589321308034">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="402" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1589321308034" />
+    <state width="1874" height="402" key="GridCell.Tab.0.left" timestamp="1589321308034">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="402" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1589321308034" />
+    <state width="1874" height="402" key="GridCell.Tab.0.right" timestamp="1589321308034">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="402" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1044@1920.0.1920.1080" timestamp="1589321308034" />
+  </component>
+</project>

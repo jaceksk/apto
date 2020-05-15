@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/izolacja.dir/main.cpp.o CMakeFiles/izolacja.dir/Logger.cpp.o CMakeFiles/izolacja.dir/Map.cpp.o  -o izolacja 
